@@ -24,7 +24,7 @@ package{
     [SWF(backgroundColor="#000000", frameRate="60", width="480", height="270")]
     public class VideoJS extends Sprite{
 
-        public const VERSION:String = CONFIG::version;
+        public const VERSION:String = "4.5.1"; //CONFIG::version;
         
         private var _app:VideoJSApp;
         private var _stageSizeTimer:Timer;
