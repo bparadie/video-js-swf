@@ -3,6 +3,7 @@
 	<name>VideoJS</name>
 	<comment></comment>
 	<projects>
+		<project>flashls</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
